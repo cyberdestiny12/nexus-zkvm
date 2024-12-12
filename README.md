@@ -1,4 +1,4 @@
-# The Nexus zkVM
+# The Nexus zkVM 
 
 <div align="left">
     <a href="https://t.me/nexus_zkvm">
